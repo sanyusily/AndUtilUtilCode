@@ -6,7 +6,7 @@
  *     desc  :
  * </pre>
  */
-class Config {
+class Configs {
 
     static applicationId = 'com.blankj.androidutilcode'
     static appName = 'Util'
